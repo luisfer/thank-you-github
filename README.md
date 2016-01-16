@@ -223,3 +223,4 @@ Signed,
 - Mukesh M ([@silentninja](https://github.com/silentninja)), Software Developer
 - Stefan Ric ([@cybre](https://github.com/cybre)), Software Developer
 - Krish Munot ([@krishmunot](https://github.com/krishmunot)), Developer
+- Luisfer Romero Calero ([@luisfer](https://github.com/luisfer)), Front-end engineer
